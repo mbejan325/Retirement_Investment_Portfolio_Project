@@ -20,6 +20,8 @@ Operating System: Windows 10
 
 **Installation Guide** To run this application please follow the following steps:
 
+*See videos in "Outline and Function Videos" section on how to create and test the Bot/Lambda. Not necessary to create multiple bots.*
+
 1) Clone the repository
 2) Open up AWS, https://aws.amazon.com/, and sign in or create an account if you are not already a user.
 3) Navigate to Lex and create and initial, basic, robo advisor via a custom bot. 
