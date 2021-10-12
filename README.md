@@ -2,6 +2,8 @@
 
 **Welcome!**
 
+![markdown-image](robo-advisors.jpg)
+
 This repository contains the files to create an AWS Robo Advisor that provides portfolios to invest in. This advisor will, when launched, will be available to prospective and current customers 24/7. 
 
 **Technologies** 
