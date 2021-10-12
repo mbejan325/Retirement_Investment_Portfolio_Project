@@ -2,9 +2,11 @@
 
 **Welcome!**
 
+This repository contains the files to create an AWS Robo Advisor that provides portfolios to invest in. This advisor will, when launched, will be available to prospective and current customers 24/7. 
+
 **Technologies** 
 
-Programming Language: Python 3.7.10 
+Programming Language: Python 3.7
 
 Libraries: DateTime, DateNull
 
@@ -17,6 +19,18 @@ Operating System: Windows 10
 **Installation Guide** To run this application please follow the following steps:
 
 1) Clone the repository
+2) Open up AWS, https://aws.amazon.com/, and sign in or create an account if you are not already a user.
+3) Navigate to Lex and create and initial, basic, robo advisor. 
+4) Save and build the bot, then test it to ensure it is working properly. 
+5) Navigate to Lambda and create a new function, make sure to use python 3.7.
+6) Open up your local folder of the repository you cloned and go through to the "Starter_Code" folder.
+7) Open the "Lambda" folder, copy the text in "final_lambda_function.py", then paste it in the code section of the function you created.
+8) Navigate to the "Test_Events folder, then copy and paste each of the four tests as tests within the Lambda function you have created.
+9) Save and deploy the function, then run each of the four tests uploaded to make sure the function works properly in case of an error.
+10) Return to Lex and add the Lambda function you created to the bot you made earlier.
+11) Save and build the bot once again, then test if the added lambda function was imported and working properly.
+
+**Walkthrough**
 
 **Contributors**
 
