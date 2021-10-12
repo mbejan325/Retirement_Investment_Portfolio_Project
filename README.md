@@ -22,7 +22,7 @@ Operating System: Windows 10
 
 1) Clone the repository
 2) Open up AWS, https://aws.amazon.com/, and sign in or create an account if you are not already a user.
-3) Navigate to Lex and create and initial, basic, robo advisor. 
+3) Navigate to Lex and create and initial, basic, robo advisor via a custom bot. 
 4) Save and build the bot, then test it to ensure it is working properly. 
 5) Navigate to Lambda and create a new function, make sure to use python 3.7.
 6) Open up your local folder of the repository you cloned and go through to the "Starter_Code" folder.
@@ -32,7 +32,26 @@ Operating System: Windows 10
 10) Return to Lex and add the Lambda function you created to the bot you made earlier.
 11) Save and build the bot once again, then test if the added lambda function was imported and working properly.
 
-**Walkthrough**
+**Outline and Function Videos**
+
+1) Getting to AWS, navigating to Lex, and a walkthrough of the outline and function for the intiial bot.
+
+![caption](Acess_InitialBot.mp4)
+
+2) Navigating to Lambda, the lambda file, and running each of the four tests to ensure success.
+
+![caption](Lambda_Tests.mpa)
+
+3) Walkthrough of the outline and function of the Lambda enhanced bot (RoboAdvisor is a copy of RoboAdvisorOne with the Lambda function added).
+
+![caption](EnhancedAdvisor.mp4)
+
+4) Walkthrough on how to create the bot seen in the above videos.
+
+![caption](BotWalkthrough.mp4)
+
+5) How to upload the Lambda and test files.
+![caption](Lambda.mp4)
 
 **Contributors**
 
